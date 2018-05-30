@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("viewDidLoad")
+        print("load")
     }
     
     override func viewWillAppear(_ animated: Bool) {
